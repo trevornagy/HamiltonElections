@@ -1,0 +1,630 @@
+{
+    "product": "Hamilton 2018 Election Results",
+    "author": "Trevor Nagy",
+    "version": 1,
+    "candidates": [{
+            "id": 1,
+            "ward": 1,
+            "vote_count": 1501,
+            "name": "Jason ALLEN"
+        },
+        {
+            "id": 2,
+            "ward": 1,
+            "vote_count": 147,
+            "name": "Sharon ANDERSON"
+        },
+        {
+            "id": 3,
+            "ward": 1,
+            "vote_count": 162,
+            "name": "Syed BAKHT"
+        },
+        {
+            "id": 4,
+            "ward": 1,
+            "vote_count": 125,
+            "name": "Sharon COLE"
+        },
+        {
+            "id": 5,
+            "ward": 1,
+            "vote_count": 137,
+            "name": "Ela EROGLU"
+        },
+        {
+            "id": 6,
+            "ward": 1,
+            "vote_count": 202,
+            "name": "Jordan GEERTSMA"
+        },
+        {
+            "id": 7,
+            "ward": 1,
+            "vote_count": 905,
+            "name": "Sophie GEFFROS"
+        },
+        {
+            "id": 8,
+            "ward": 1,
+            "vote_count": 1060,
+            "name": "Carol LAZICH"
+        },
+        {
+            "id": 9,
+            "ward": 1,
+            "vote_count": 235,
+            "name": "Richard MASSIE"
+        },
+        {
+            "id": 10,
+            "ward": 1,
+            "vote_count": 294,
+            "name": "Lyla MIKLOS"
+        },
+        {
+            "id": 11,
+            "ward": 1,
+            "vote_count": 238,
+            "name": "Linda NARDUCCI"
+        },
+        {
+            "id": 12,
+            "ward": 1,
+            "vote_count": 157,
+            "name": "Harrison WHITE"
+        },
+        {
+            "id": 13,
+            "ward": 1,
+            "vote_count": 3664,
+            "name": "Maureen WILSON"
+        },
+        {
+            "id": 14,
+            "ward": 2,
+            "vote_count": 430,
+            "name": "Diane CHIARELLI"
+        },
+        {
+            "id": 15,
+            "ward": 2,
+            "vote_count": 120,
+            "name": "Suresh DALJEET"
+        },
+        {
+            "id": 16,
+            "ward": 2,
+            "vote_count": 3162,
+            "name": "Jason FARR"
+        },
+        {
+            "id": 17,
+            "ward": 2,
+            "vote_count": 2024,
+            "name": "Cameron KROETSCH"
+        },
+        {
+            "id": 18,
+            "ward": 2,
+            "vote_count": 281,
+            "name": "Nicole SMITH"
+        },
+        {
+            "id": 19,
+            "ward": 2,
+            "vote_count": 362,
+            "name": "Mark TENNANT"
+        },
+        {
+            "id": 20,
+            "ward": 2,
+            "vote_count": 73,
+            "name": "James UNSWORTH"
+        },
+        {
+            "id": 21,
+            "ward": 2,
+            "vote_count": 296,
+            "name": "John VAIL"
+        },
+        {
+            "id": 22,
+            "ward": 3,
+            "vote_count": 269,
+            "name": "Milena BALTA"
+        },
+        {
+            "id": 23,
+            "ward": 3,
+            "vote_count": 83,
+            "name": "Keith BECK"
+        },
+        {
+            "id": 24,
+            "ward": 3,
+            "vote_count": 314,
+            "name": "Alain BUREAU"
+        },
+        {
+            "id": 25,
+            "ward": 3,
+            "vote_count": 100,
+            "name": "Steven Paul DENAULT"
+        },
+        {
+            "id": 26,
+            "ward": 3,
+            "vote_count": 1471,
+            "name": "Laura FARR"
+        },
+        {
+            "id": 27,
+            "ward": 3,
+            "vote_count": 213,
+            "name": "Brendan KAVANAUGH"
+        },
+        {
+            "id": 28,
+            "ward": 3,
+            "vote_count": 1066,
+            "name": "Ned KURUC"
+        },
+        {
+            "id": 29,
+            "ward": 3,
+            "vote_count": 196,
+            "name": "Tony LEMMA"
+        },
+        {
+            "id": 30,
+            "ward": 3,
+            "vote_count": 2618,
+            "name": "Nrinder NANN"
+        },
+        {
+            "id": 31,
+            "ward": 3,
+            "vote_count": 232,
+            "name": "Stephen ROWE"
+        },
+        {
+            "id": 32,
+            "ward": 3,
+            "vote_count": 552,
+            "name": "Amanda SALONEN"
+        },
+        {
+            "id": 33,
+            "ward": 3,
+            "vote_count": 474,
+            "name": "Dan SMITH"
+        },
+        {
+            "id": 34,
+            "ward": 3,
+            "vote_count": 120,
+            "name": "Kristeen SPRAGUE"
+        },
+        {
+            "id": 35,
+            "ward": 4,
+            "vote_count": 1910,
+            "name": "Rod DOUGLAS"
+        },
+        {
+            "id": 36,
+            "ward": 4,
+            "vote_count": 6913,
+            "name": "Sam MERULLA"
+        },
+        {
+            "id": 37,
+            "ward": 5,
+            "vote_count": 7596,
+            "name": "Chad COLLINS"
+        },
+        {
+            "id": 38,
+            "ward": 5,
+            "vote_count": 526,
+            "name": "Stewart KLAZINGA"
+        },
+        {
+            "id": 39,
+            "ward": 5,
+            "vote_count": 1340,
+            "name": "Juanita MALDONADO"
+        },
+        {
+            "id": 40,
+            "ward": 6,
+            "vote_count": 8247,
+            "name": "Tom JACKSON"
+        },
+        {
+            "id": 41,
+            "ward": 6,
+            "vote_count": 943,
+            "name": "Timothy TAYLOR"
+        },
+        {
+            "id": 42,
+            "ward": 6,
+            "vote_count": 836,
+            "name": "Brad YOUNG"
+        },
+        {
+            "id": 43,
+            "ward": 7,
+            "vote_count": 411,
+            "name": "Steve BENSON"
+        },
+        {
+            "id": 44,
+            "ward": 7,
+            "vote_count": 1243,
+            "name": "Steve CLARKE"
+        },
+        {
+            "id": 45,
+            "ward": 7,
+            "vote_count": 104,
+            "name": "Kristopher CLOWATER"
+        },
+        {
+            "id": 46,
+            "ward": 7,
+            "vote_count": 1418,
+            "name": "Adam DIRANI"
+        },
+        {
+            "id": 47,
+            "ward": 7,
+            "vote_count": 1280,
+            "name": "Karen GRICE-UGGENTI"
+        },
+        {
+            "id": 48,
+            "ward": 7,
+            "vote_count": 160,
+            "name": "Joseph KAZUBEK"
+        },
+        {
+            "id": 49,
+            "ward": 7,
+            "vote_count": 1735,
+            "name": "Dan MacINTYRE"
+        },
+        {
+            "id": 50,
+            "ward": 7,
+            "vote_count": 662,
+            "name": "Jim McCOLL"
+        },
+        {
+            "id": 51,
+            "ward": 7,
+            "vote_count": 1878,
+            "name": "Geraldine McMULLEN"
+        },
+        {
+            "id": 52,
+            "ward": 7,
+            "vote_count": 3016,
+            "name": "Esther PAULS"
+        },
+        {
+            "id": 53,
+            "ward": 7,
+            "vote_count": 157,
+            "name": "Roland SCHNEIDER"
+        },
+        {
+            "id": 54,
+            "ward": 8,
+            "vote_count": 2097,
+            "name": "Eve ADAMS"
+        },
+        {
+            "id": 55,
+            "ward": 8,
+            "vote_count": 50,
+            "name": "Christopher CLIMIE"
+        },
+        {
+            "id": 56,
+            "ward": 8,
+            "vote_count": 3752,
+            "name": "John-Paul DANKO"
+        },
+        {
+            "id": 57,
+            "ward": 8,
+            "vote_count": 1905,
+            "name": "Steve RUDDICK"
+        },
+        {
+            "id": 58,
+            "ward": 8,
+            "vote_count": 288,
+            "name": "Anthony SIMPSON"
+        },
+        {
+            "id": 59,
+            "ward": 8,
+            "vote_count": 911,
+            "name": "Colleen WICKEN"
+        },
+        {
+            "id": 60,
+            "ward": 9,
+            "vote_count": 2539,
+            "name": "Brad CLARK"
+        },
+        {
+            "id": 61,
+            "ward": 9,
+            "vote_count": 1961,
+            "name": "Doug CONLEY"
+        },
+        {
+            "id": 62,
+            "ward": 9,
+            "vote_count": 330,
+            "name": "David FORD"
+        },
+        {
+            "id": 63,
+            "ward": 9,
+            "vote_count": 1529,
+            "name": "Peter LANZA"
+        },
+        {
+            "id": 64,
+            "ward": 9,
+            "vote_count": 197,
+            "name": "Lakhwinder Singh MULTANI"
+        },
+        {
+            "id": 65,
+            "ward": 10,
+            "vote_count": 2692,
+            "name": "Jeff BEATTIE"
+        },
+        {
+            "id": 66,
+            "ward": 10,
+            "vote_count": 2990,
+            "name": "Louie MILOJEVIC"
+        },
+        {
+            "id": 67,
+            "ward": 10,
+            "vote_count": 3988,
+            "name": "Maria PEARSON"
+        },
+        {
+            "id": 68,
+            "ward": 10,
+            "vote_count": 1304,
+            "name": "Ian THOMPSON"
+        },
+        {
+            "id": 69,
+            "ward": 11,
+            "vote_count": 6129,
+            "name": "Brenda JOHNSON"
+        },
+        {
+            "id": 70,
+            "ward": 11,
+            "vote_count": 838,
+            "name": "Waleed SHEWAYHAT"
+        },
+        {
+            "id": 71,
+            "ward": 12,
+            "vote_count": 1699,
+            "name": "Mike BELL"
+        },
+        {
+            "id": 72,
+            "ward": 12,
+            "vote_count": 7000,
+            "name": "Lloyd FERGUSON"
+        },
+        {
+            "id": 73,
+            "ward": 12,
+            "vote_count": 210,
+            "name": "Kevin MARLEY"
+        },
+        {
+            "id": 74,
+            "ward": 12,
+            "vote_count": 2296,
+            "name": "Miranda REIS"
+        },
+        {
+            "id": 75,
+            "ward": 12,
+            "vote_count": 801,
+            "name": "John SCIME"
+        },
+        {
+            "id": 76,
+            "ward": 13,
+            "vote_count": 598,
+            "name": "Gaspare BONOMO"
+        },
+        {
+            "id": 77,
+            "ward": 13,
+            "vote_count": 3087,
+            "name": "Rich GELDER"
+        },
+        {
+            "id": 78,
+            "ward": 13,
+            "vote_count": 895,
+            "name": "Kevin GRAY"
+        },
+        {
+            "id": 79,
+            "ward": 13,
+            "vote_count": 177,
+            "name": "Pamela MITCHELL"
+        },
+        {
+            "id": 80,
+            "ward": 13,
+            "vote_count": 2091,
+            "name": "John MYKYTYSHYN"
+        },
+        {
+            "id": 81,
+            "ward": 13,
+            "vote_count": 661,
+            "name": "John ROBERTS"
+        },
+        {
+            "id": 82,
+            "ward": 13,
+            "vote_count": 3953,
+            "name": "Arlene VANDERBEEK"
+        },
+        {
+            "id": 83,
+            "ward": 14,
+            "vote_count": 834,
+            "name": "Roslyn FRENCH-SANGES"
+        },
+        {
+            "id": 84,
+            "ward": 14,
+            "vote_count": 295,
+            "name": "Robert ISZKULA"
+        },
+        {
+            "id": 85,
+            "ward": 14,
+            "vote_count": 249,
+            "name": "Vincent SAMUEL"
+        },
+        {
+            "id": 86,
+            "ward": 14,
+            "vote_count": 5358,
+            "name": "Terry WHITEHEAD"
+        },
+        {
+            "id": 87,
+            "ward": 14,
+            "vote_count": 2535,
+            "name": "Bryan WILSON"
+        },
+        {
+            "id": 88,
+            "ward": 15,
+            "vote_count": 3255,
+            "name": "Susan McKECHNIE"
+        },
+        {
+            "id": 89,
+            "ward": 15,
+            "vote_count": 3471,
+            "name": "Judi PARTRIDGE"
+        },
+        {
+            "id": 90,
+            "ward": 0,
+            "vote_count": 2071,
+            "name": "Jim DAVIS"
+        },
+        {
+            "id": 91,
+            "ward": 0,
+            "vote_count": 74093,
+            "name": "Fred EISENBERGER"
+        },
+        {
+            "id": 92,
+            "ward": 0,
+            "vote_count": 706,
+            "name": "Paul FROMM"
+        },
+        {
+            "id": 93,
+            "ward": 0,
+            "vote_count": 494,
+            "name": "Henry GEISSLER"
+        },
+        {
+            "id": 94,
+            "ward": 0,
+            "vote_count": 521,
+            "name": "Carlos GOMES"
+        },
+        {
+            "id": 95,
+            "ward": 0,
+            "vote_count": 409,
+            "name": "Edward HC GRAYDON"
+        },
+        {
+            "id": 96,
+            "ward": 0,
+            "vote_count": 500,
+            "name": "Todd MAY"
+        },
+        {
+            "id": 97,
+            "ward": 0,
+            "vote_count": 899,
+            "name": "Michael PATTISON"
+        },
+        {
+            "id": 98,
+            "ward": 0,
+            "vote_count": 2220,
+            "name": "George RUSICH"
+        },
+        {
+            "id": 99,
+            "ward": 0,
+            "vote_count": 479,
+            "name": "Phil RYERSON"
+        },
+        {
+            "id": 100,
+            "ward": 0,
+            "vote_count": 463,
+            "name": "Ute SCHMID-JONES"
+        },
+        {
+            "id": 101,
+            "ward": 0,
+            "vote_count": 52190,
+            "name": "Vito SGRO"
+        },
+        {
+            "id": 102,
+            "ward": 0,
+            "vote_count": 398,
+            "name": "Ricky TAVARES"
+        },
+        {
+            "id": 103,
+            "ward": 0,
+            "vote_count": 408,
+            "name": "Mark WOZNY"
+        },
+        {
+            "id": 104,
+            "ward": 0,
+            "vote_count": 1286,
+            "name": "Nathalie Xian Yi YAN"
+        }
+    ]
+}

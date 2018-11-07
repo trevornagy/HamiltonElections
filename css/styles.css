@@ -1,0 +1,17 @@
+.navbar {
+    /* Remove margin from nav */
+    margin-bottom: 0;
+}
+
+.navbar-right {
+    margin-right: 25vmin;
+}
+
+main,
+.MicrosoftMap {
+    max-height: 75vmin;
+}
+
+.MicrosoftMap .as_container_search.as_container {
+    width: 42vmin;
+}
