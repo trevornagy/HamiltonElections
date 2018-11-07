@@ -162,9 +162,6 @@ function calculatePollBoundary(lat, long) {
             // Change the color of the ward that the user is located in
             changeSelectedColor(layerWard.getPrimitives().filter(ward => ward.metadata.ward == pollBoundary.metadata.ward)[0]);
             loadWardData(pollBoundary.metadata.ward, pollBoundary);
-        } else {
-            // User is not located in a ward, give error message
-            $('<h2 class="text-danger">The address that you entered is not located in any of the wards.</h2>').prependTo("#pollInformation");
         }
     });
 }
